@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/WidthMatchHeightMatchVertical"
+    android:gravity="center">
+
+
+    <ImageView
+        android:id="@+id/loadingImageView"
+        android:layout_width="@dimen/process_dialog_gif_size"
+        android:layout_height="@dimen/process_dialog_gif_size" />
+
+    <TextView
+        android:id="@+id/messageTextView"
+        style="@style/WidthWrapHeightWrap"
+        android:gravity="center"
+        android:textColor="#ffffff" />
+
+</LinearLayout>

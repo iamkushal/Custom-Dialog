@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CustomDialog</string>
+    <string name="verifying_dot">Verifying...</string>
 </resources>
